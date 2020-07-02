@@ -1,0 +1,9 @@
+.bg-navbar {
+    background: linear-gradient(180deg, rgba(0,56,147,0.6), rgba(117,170,219,10.6));
+    background-color: white;
+}
+
+.navbar img {
+    height: auto; width: 1.4em;
+    margin-bottom: 1px;
+}

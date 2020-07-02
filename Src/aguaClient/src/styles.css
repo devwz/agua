@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+.dg-gray-0 { background-color: #080808; }
+.dg-gray-1 { background-color: #181818; }
+.dg-gray-2 { background-color: #282828; }
+.dg-gray-3 { background-color: #484848; }
+.dg-gray-4 { background-color: #686868; }
+.dg-gray-5 { background-color: #888888; }
+.dg-gray-6 { background-color: #A8A8A8; }
+.dg-gray-7 { background-color: #E1E8ED; }
+.dg-gray-8 { background-color: #F8F8F8; }
+
+.lightblue { background-color: lightblue; }
+.lightcoral { background-color: lightcoral; }
+.lightgreen { background-color: lightgreen; }
+.green-1 { background-color: #25D366; }
+.blue-1 { background-color: #007BFF; }
+
+.height-1 { height: 6em; }
+.height-2 { height: 12em; }
+.height-3 { height: 18em; }
+.height-4 { height: 24em; }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

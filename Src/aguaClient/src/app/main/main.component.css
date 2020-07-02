@@ -1,0 +1,96 @@
+
+/* BRAND */
+
+.jumbotron {
+    background:
+        url("/assets/60b.png"),
+        url("/assets/ruido.png"),
+        linear-gradient(180deg, rgba(0,56,147,0.6), rgba(117,170,219,0.6));
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 24em;
+}
+
+.brand-content {
+    padding-top: 72px;
+}
+
+/* MARKETING */
+
+.marketing {
+    text-align: center;
+}
+
+.marketing h4 {
+    font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+}
+
+.marketing img {
+    height: 140px;
+    width: 140px;
+    margin-bottom: 1em;
+}
+
+/* ATTENDANCE */
+
+.attendance {
+    background: linear-gradient(50deg, #128C7E, #25D366);
+    padding-top: 3em;
+    text-align: center;
+}
+
+.attendance-content img {
+    height: auto;
+    width: 86px;
+    margin-bottom: 1em;
+}
+
+.attendance h3, h4 {
+    font-weight: 400;
+    margin-bottom: 1em;
+}
+
+/* FEATURETTE */
+
+.featurette {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+.featurette img {
+    height: 400px;
+    width: auto;
+}
+
+/* LOCATION */
+
+.location {
+    font-weight: 400;
+    text-align: center;
+}
+
+/* RESPONSIVE */
+
+@media (min-width: 40em) {
+    .featurette-heading {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 62em) {
+    .featurette-heading {
+        margin-top: 7rem;
+    }
+}
