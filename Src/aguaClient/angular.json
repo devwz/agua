@@ -107,8 +107,13 @@
           "options": {
             "browserTarget": "aguaClient:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "aguaClient"
 }
